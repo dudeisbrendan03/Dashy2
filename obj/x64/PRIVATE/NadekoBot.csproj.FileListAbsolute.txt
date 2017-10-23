@@ -1,0 +1,2 @@
+G:\TITANBOT-BACKUP\Dashy\beta\NadekoBot\obj\x64\PRIVATE\NadekoBot.Properties.Resources.resources
+G:\TITANBOT-BACKUP\Dashy\beta\NadekoBot\obj\x64\PRIVATE\NadekoBot.csproj.GenerateResource.Cache

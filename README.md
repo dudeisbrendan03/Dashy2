@@ -1,4 +1,7 @@
 # Dashy2
+
+***A discord bot based off of the empty Nadeko bot***
+
 ## Install is easy with the installer
 Check my profile
 
